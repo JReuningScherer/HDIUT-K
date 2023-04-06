@@ -1,6 +1,6 @@
 # HDIUT-K
 
-*How Do I Use This -- Keyboard* 
+*How Do I Use This --- Keyboard* 
 
 *I just need a piano sound!*
 
